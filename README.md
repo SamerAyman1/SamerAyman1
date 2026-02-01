@@ -5,6 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=IM+SAMER+AYMAN;Full+Stack+Developer;Cyber+Security+Learner"/>
 
+
 <h4>Full Stack Developer · Cyber Security Learner</h4>
 
 <details>
