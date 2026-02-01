@@ -16,7 +16,8 @@
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamerAYMAN1E&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samer-ayman-7287552b6)
+
 
 </div>
 
