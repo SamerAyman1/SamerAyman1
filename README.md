@@ -1,4 +1,5 @@
 <div align="center" width="50">
+<img width="800" height="138" alt="Add a heading" src="https://github.com/user-attachments/assets/fb56f789-101f-470b-ae38-dca77195af9c" />
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
