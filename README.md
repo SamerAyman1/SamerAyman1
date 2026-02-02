@@ -36,17 +36,4 @@ class AboutMe {
   final focus = ["Web Development", "Penetration Testing"];
   final tools = ["Linux", "Git", "VS Code"];
 }
-<hr>
-Projects
-<div align="left">
 
-Project-One
- - تطبيق ويب بسيط لإدارة المهام
-
-Project-Two
- - موقع للتعلم الإلكتروني باستخدام React
-
-Project-Three
- - مشروع Penetration Testing عملي
-
-</div> ``
