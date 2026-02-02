@@ -1,24 +1,19 @@
 <div align="center" width="50">
-<img width="800" height="138" alt="Add a heading" src="https://github.com/user-attachments/assets/fb56f789-101f-470b-ae38-dca77195af9c" />
+  <img width="800" height="138" alt="Add a heading" src="https://github.com/user-attachments/assets/fb56f789-101f-470b-ae38-dca77195af9c" />
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=IM+SAMER+AYMAN;Full+Stack+Developer;Cyber+Security+Learner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=IM+SAMER+AYMAN;Full+Stack+Developer;Cyber+Security+Learner"/>
 
+  <h4>Full Stack Developer · Cyber Security Learner</h4>
 
-<h4>Full Stack Developer · Cyber Security Learner</h4>
+  <details>
+    <summary>Busy coding & Vibing to</summary>
+    <p></p>
+  </details>
 
-<details>
-<p><strong><summary>Busy coding & Vibing to</summary></strong></p>
-
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SamerAYMAN1E&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samer-ayman-7287552b6)
-
-
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=SamerAYMAN1E&style=flat&color=orange&label=PROFILE+VIEWS)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samer-ayman-7287552b6)
 </div>
 
 <hr>
